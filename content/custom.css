@@ -17,3 +17,8 @@ html, body {
 .footer, .push {
     height: 4em;
 }
+
+#HomeJumbotron {
+    padding-left: 10%;
+    padding-right: 10%;
+}
