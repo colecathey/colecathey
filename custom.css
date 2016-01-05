@@ -4,4 +4,12 @@
 
 #profileImage {
     text-align: center;
+    max-height: 100px;
+    max-width: 40px;
+    clear: both;
+}
+
+#homeJumbotron {
+    text-align: center;
+    
 }
